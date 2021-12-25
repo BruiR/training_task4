@@ -1,0 +1,16 @@
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\bin\Debug\net5.0\Task4_1.exe
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\bin\Debug\net5.0\Task4_1.deps.json
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\bin\Debug\net5.0\Task4_1.runtimeconfig.json
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\bin\Debug\net5.0\Task4_1.runtimeconfig.dev.json
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\bin\Debug\net5.0\Task4_1.dll
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\bin\Debug\net5.0\ref\Task4_1.dll
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\bin\Debug\net5.0\Task4_1.pdb
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.csproj.AssemblyReference.cache
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.AssemblyInfoInputs.cache
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.AssemblyInfo.cs
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.csproj.CoreCompileInputs.cache
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.dll
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\ref\Task4_1.dll
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.pdb
+D:\Files\Work\ISSOFT\Traine\Task4\BruiRoman_Task4\Task4\Task4_1\obj\Debug\net5.0\Task4_1.genruntimeconfig.cache
